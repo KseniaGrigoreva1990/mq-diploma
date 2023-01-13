@@ -1,0 +1,9 @@
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	max-width: 1200px;
+}
+
+.header {
+	background-image: url("../images/banner-bg.jpg");
+}
